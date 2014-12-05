@@ -1,4 +1,4 @@
-gopushdemo
+WeCloudMessageDemo
 ==========
 
-demo for gopush
+demo for WeCloud Message
